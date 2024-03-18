@@ -21,7 +21,7 @@ require (
 	go.uber.org/zap v1.21.0
 	golang.org/x/sys v0.15.0
 	google.golang.org/grpc v1.56.3
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/src-d/go-billy.v4 v4.3.2
 )
 
